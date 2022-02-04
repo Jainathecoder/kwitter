@@ -1,0 +1,10 @@
+var firebaseConfig = {
+  apiKey: "AIzaSyDyK2h_w21UgR5FWg60qOzq9pNM8GUvDJ4",
+  authDomain: "kitter-bfa0d.firebaseapp.com",
+  databaseURL: "https://kitter-bfa0d-default-rtdb.firebaseio.com",
+  projectId: "kitter-bfa0d",
+  storageBucket: "kitter-bfa0d.appspot.com",
+  messagingSenderId: "931162041759",
+  appId: "1:931162041759:web:ef317c36d8fa36fac5e1aa"
+};
+firebase.initializeApp(firebaseConfig);
